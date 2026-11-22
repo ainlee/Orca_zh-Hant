@@ -1,33 +1,42 @@
 # Orca 繁體中文化補丁（Orca_zh-Hant）
 
-此儲存庫作為 **Orca 繁體中文化補丁專案** 使用，僅收錄繁體中文（zh-Hant）語系檔與維護用腳本/清單，不包含 Orca 上游完整原始碼。
+此儲存庫提供 Orca 的 **繁體中文（zh-Hant）語系 plugin**（data-only），作為「完整修補」語系安裝使用，**不修改** Orca 內建 `zh-Hant-*.json`。
 
-## 內容
+## 以 GitHub 安裝（推薦）
 
-- `src/renderer/src/i18n/locales/zh-Hant.json`：Orca 桌面版/Renderer 繁體中文語系檔。
-- `mobile/src/i18n/locales/zh-Hant.json`：Orca 行動版繁體中文語系檔（`mobile/src/i18n/locales` 路徑）。
-- `mobile/locales/zh-Hant.json`：Orca 行動版繁體中文語系檔（`mobile/locales` 路徑，與部分版本相容）。
-- `maintenance/missing-src_renderer_src_i18n_locales.json`：桌面版缺漏鍵清單（維護產物）。
-- `maintenance/missing-mobile_src_i18n_locales.json`：行動版缺漏鍵清單（維護產物）。
-- `maintenance/zh-Hant-upstream-sample.json`：上游/參考樣本（維護產物）。
-- `maintenance/*.mjs`、`maintenance/*.cjs`、`maintenance/*.md`：翻譯維護、檢查、合併、驗證腳本與說明。
+在已安裝 Orca 且可用 `orca` CLI 的機器上執行：
 
-## 使用方式（手動套用）
+```powershell
+& "C:\Users\<你>\AppData\Local\Programs\orca\resources\bin\orca.exe" plugin install https://github.com/ainlee/Orca_zh-Hant.git --json
+```
 
-1. 取得對應版本的 Orca 原始碼或安裝檔內容。
-2. 將本 repo 的 `zh-Hant.json` 覆蓋/放置到 Orca 對應路徑：
-   - `src/renderer/src/i18n/locales/zh-Hant.json`
-   - `mobile/src/i18n/locales/zh-Hant.json`
-   - `mobile/locales/zh-Hant.json`（若該版本使用此路徑）
-3. 重新建置或重新封裝 Orca 後驗證介面顯示。
+或：
 
-> 注意：語系鍵可能隨 Orca 上游版本變動。升級 Orca 後，請先比對 `maintenance/missing-*.json` 或重新產生缺漏清單，再補齊翻譯。
+```powershell
+& "C:\Users\<你>\AppData\Local\Programs\orca\resources\bin\orca.exe" plugin install ainlee/Orca_zh-Hant --json
+```
 
-## 維護
+安裝後重啟 Orca，於 **Settings > Language** 選擇：**繁體中文（台灣）完整修補**。
 
-`maintenance/` 內的腳本主要來自繁中化維護工作區，部分腳本可能依賴原始工作區的檔案結構或產物。使用前請先檢視腳本內的路徑假設與輸入/輸出檔名。
+> 備註：publisher 由 GitHub owner 推導為 `ainlee`，安裝後 plugin key 會是 `ainlee.zh-hant-full-patch`。
+
+## 本 repo 結構（插件）
+
+- `orca-plugin.json`：插件清單（language pack）
+- `locales/zh-Hant.json`：完整繁中 catalog（來自維護來源）
+- `src/`、`mobile/`、`maintenance/`：維護用原始/對照與腳本（不影響插件載入；保留供追溯）
+
+## 版本策略
+
+建議 `version` 跟隨對應的 **Orca 官方版本**（例如 `1.4.269`），方便對應支援的 Orca 版本與後續更新。每次 Orca 發新版、翻譯有增補時，更新 `locales/zh-Hant.json` 並同步調整 `version`（或改用 `1.4.269.1` 這類 patch 版本，依你偏好）。
+
+## 維護流程（簡述）
+
+1. 從 `F:\DevProjects\OrcaADE\orca-zh\src\renderer\src\i18n\locales\zh-Hant.json`（或你的維護來源）更新 `locales/zh-Hant.json`。
+2. 視需要更新 `version`（建議跟隨 Orca 官方版本）。
+3. Commit + push 到 GitHub。
 
 ## 授權與來源
 
-- 本 repo 僅包含繁體中文化補丁與維護產物。
+- 本 repo 僅包含繁體中文化補丁/插件與維護產物。
 - Orca 本體為上游專案所有；使用時請遵循上游授權與相關條款。
