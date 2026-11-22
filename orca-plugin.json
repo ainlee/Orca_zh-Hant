@@ -16,6 +16,6 @@
   "description": "以完整 zh-Hant catalog 提供 Orca 繁體中文（台灣）介面翻譯，作為 plugin 語系安裝（不修改內建語系檔）。",
   "name": "繁體中文（台灣）完整修補",
   "execution": "data",
-  "version": "1.4.269.1",
+  "version": "1.4.270",
   "manifestVersion": 2
 }
