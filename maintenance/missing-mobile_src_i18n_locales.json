@@ -1,0 +1,3771 @@
+[
+ {
+  "key": "settings.appearance.usage.used",
+  "en": "Used",
+  "siblings": 0
+ },
+ {
+  "key": "settings.appearance.usage.remaining",
+  "en": "Remaining",
+  "siblings": 0
+ },
+ {
+  "key": "settings.appearance.usage.heading",
+  "en": "USAGE PERCENTAGES",
+  "siblings": 0
+ },
+ {
+  "key": "settings.appearance.usage.description",
+  "en": "Usage bars on Home and Accounts show how much of each limit is used or left. Saved on this phone.",
+  "siblings": 0
+ },
+ {
+  "key": "host.edit.updateStepsServiceManager",
+  "en": "Update it with its package manager or service manager.",
+  "siblings": 0
+ },
+ {
+  "key": "host.edit.updateStepsSourceCheckout",
+  "en": "Update it from its source checkout.",
+  "siblings": 0
+ },
+ {
+  "key": "host.edit.updateStepsServer",
+  "en": "Update Orca on the server, then restart it.",
+  "siblings": 0
+ },
+ {
+  "key": "host.edit.orcaVersion",
+  "en": "Orca version",
+  "siblings": 0
+ },
+ {
+  "key": "accounts.usage.percentLeft",
+  "en": "{{value}}% left",
+  "siblings": 0
+ },
+ {
+  "key": "agentHistory.panel.showAllAgents",
+  "en": "Show all agents",
+  "siblings": 0
+ },
+ {
+  "key": "agentHistory.interrupted.failed",
+  "en": "Couldn't resume the interrupted chats.",
+  "siblings": 0
+ },
+ {
+  "key": "agentHistory.interrupted.count_one",
+  "en": "{{count}} chat was interrupted",
+  "siblings": 0
+ },
+ {
+  "key": "agentHistory.interrupted.count_other",
+  "en": "{{count}} chats were interrupted",
+  "siblings": 0
+ },
+ {
+  "key": "agentHistory.interrupted.resumeAll",
+  "en": "Resume all",
+  "siblings": 0
+ },
+ {
+  "key": "agentHistory.interrupted.failedCount_one",
+  "en": "{{count}} chat couldn't resume",
+  "siblings": 0
+ },
+ {
+  "key": "agentHistory.interrupted.failedCount_other",
+  "en": "{{count}} chats couldn't resume",
+  "siblings": 0
+ },
+ {
+  "key": "agentHistory.viewControls.allAgents",
+  "en": "All agents",
+  "siblings": 0
+ },
+ {
+  "key": "agentHistory.viewControls.lastUpdated",
+  "en": "Last updated",
+  "siblings": 0
+ },
+ {
+  "key": "agentHistory.viewControls.created",
+  "en": "Created",
+  "siblings": 0
+ },
+ {
+  "key": "agentHistory.viewControls.agents",
+  "en": "Agents",
+  "siblings": 0
+ },
+ {
+  "key": "agentHistory.filterSheet.title",
+  "en": "Filter & sort",
+  "siblings": 0
+ },
+ {
+  "key": "agentHistory.filterSheet.activeLabel",
+  "en": "Filter & sort, {{count}} active",
+  "siblings": 0
+ },
+ {
+  "key": "agentHistory.filterSheet.reset",
+  "en": "Reset",
+  "siblings": 0
+ },
+ {
+  "key": "agentHistory.filterSheet.done",
+  "en": "Done",
+  "siblings": 0
+ },
+ {
+  "key": "agentHistory.filterSheet.sortBy",
+  "en": "Sort by",
+  "siblings": 0
+ },
+ {
+  "key": "home.tabs.bots",
+  "en": "Bots",
+  "siblings": 0
+ },
+ {
+  "key": "home.bots.noBotsTitle",
+  "en": "No bots yet",
+  "siblings": 0
+ },
+ {
+  "key": "home.bots.pairDesktop",
+  "en": "Pair a desktop to see its bots here.",
+  "siblings": 0
+ },
+ {
+  "key": "home.bots.seeAll",
+  "en": "See all bots",
+  "siblings": 0
+ },
+ {
+  "key": "home.bots.updateOneBody",
+  "en": "Its version of Orca can’t show bots on your phone yet.",
+  "siblings": 0
+ },
+ {
+  "key": "home.bots.updateManyTitle",
+  "en": "Update Orca on your computers",
+  "siblings": 0
+ },
+ {
+  "key": "home.bots.updateManyBody",
+  "en": "Their version of Orca can’t show bots on your phone yet.",
+  "siblings": 0
+ },
+ {
+  "key": "home.bots.offOneBody",
+  "en": "To turn them on, open Orca on {{host}} and go to Settings › Bots › Enable bots.",
+  "siblings": 0
+ },
+ {
+  "key": "home.bots.offServerBody",
+  "en": "To turn them on, open Orca on {{desktop}} and go to Settings › Bots › Enable bots on {{host}}.",
+  "siblings": 0
+ },
+ {
+  "key": "home.bots.offManyTitle",
+  "en": "Bots are off on your computers",
+  "siblings": 0
+ },
+ {
+  "key": "home.bots.offManyBody",
+  "en": "To turn them on, open Orca on each computer and go to Settings › Bots › Enable bots.",
+  "siblings": 0
+ },
+ {
+  "key": "hostScreen.hostScreenOverlays.markRead",
+  "en": "Mark Read",
+  "zh": "标记为已读",
+  "ja": "既読マークを付ける",
+  "de": "Als gelesen markieren",
+  "ru": "Отметить прочитанным",
+  "siblings": 4
+ },
+ {
+  "key": "hostScreen.hostScreenOverlays.markUnread",
+  "en": "Mark Unread",
+  "zh": "标记为未读",
+  "ja": "未読としてマークする",
+  "de": "Als ungelesen markieren",
+  "ru": "Отметить непрочитанным",
+  "siblings": 4
+ },
+ {
+  "key": "hostScreen.hostScreenOverlays.muteNotifications",
+  "en": "Mute Notifications",
+  "zh": "静音通知",
+  "ja": "通知をミュート",
+  "siblings": 2
+ },
+ {
+  "key": "hostScreen.hostScreenOverlays.unmuteNotifications",
+  "en": "Unmute Notifications",
+  "zh": "取消静音通知",
+  "ja": "通知のミュートを解除",
+  "siblings": 2
+ },
+ {
+  "key": "hostScreen.hostScreenOverlays.moveToStatus",
+  "en": "Move to Status",
+  "zh": "移至状态",
+  "ja": "ステータスに移動",
+  "de": "In Status verschieben",
+  "ru": "Переместить в статус",
+  "siblings": 4
+ },
+ {
+  "key": "components.native-chat.connectorAsker.directMessage",
+  "en": "{{source}} DM",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.connectorAsker.groupMessage",
+  "en": "{{source}} group DM",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.connectorAsker.you",
+  "en": "You",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.connectorAsker.someone",
+  "en": "Someone",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.connectorAsker.label",
+  "en": "{{name}} in {{place}}",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.connectorAsker.open",
+  "en": "Open in {{source}}",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.connectorAsker.noAccess",
+  "en": "no access",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.connectorAsker.earlierMessages_one",
+  "en": "{{count}} earlier message in the thread",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.connectorAsker.earlierMessages_other",
+  "en": "{{count}} earlier messages in the thread",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.connectorAsker.via",
+  "en": "{{name}} via {{bot}}",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.slackMirror.retry",
+  "en": "Retry",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.slackMirror.switch",
+  "en": "Post this chat to Slack",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.slackMirror.delete",
+  "en": "Delete from Slack",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.dismissDeliveryNotice",
+  "en": "Dismiss",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.typedBy.anotherComputer",
+  "en": "another computer",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.typedBy.fromVia",
+  "en": "From {{name}} via {{computer}}",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.typedBy.fromViaPhone",
+  "en": "From {{name}}, typed on {{phone}} via {{computer}}",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.fork.pending",
+  "en": "Forking this chat…",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.fork.commandWorking",
+  "en": "Can’t fork while {{agent}} is replying. Run /fork again when it finishes.",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.fork.commandNothing",
+  "en": "There’s no response to fork yet.",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.fork.commandTakesNoText",
+  "en": "Send /fork on its own, then write in the new chat.",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.fork.commandDescription",
+  "en": "Fork this chat from its latest response",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.usage.description",
+  "en": "Show usage for this chat’s Codex account",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.usage.sharedAccount",
+  "en": "Current shared account",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.usage.failed",
+  "en": "Codex usage couldn’t be loaded. Try again.",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.usage.codexVersion",
+  "en": "This Codex version doesn’t report usage. Update Codex.",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.usage.apiKeyAuth",
+  "en": "Codex usage isn’t available with an API key. Sign in to Codex with a ChatGPT account to view usage.",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.usage.title",
+  "en": "Codex usage",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.usage.loading",
+  "en": "Loading Codex usage…",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.usage.account",
+  "en": "Account used by this chat",
+  "siblings": 0
+ },
+ {
+  "key": "components.native-chat.usage.retry",
+  "en": "Retry",
+  "siblings": 0
+ },
+ {
+  "key": "browser.loadFailure.certificateProceedNeedsHostUpdate",
+  "en": "Update Orca on this host to accept certificate warnings from your phone.",
+  "siblings": 0
+ },
+ {
+  "key": "files.fileExplorerRow.ignored",
+  "en": "Ignored by .gitignore",
+  "siblings": 0
+ },
+ {
+  "key": "session.header.itemsNeedYou",
+  "en": "Items, {{count}} need you",
+  "siblings": 0
+ },
+ {
+  "key": "session.header.items",
+  "en": "Items",
+  "siblings": 0
+ },
+ {
+  "key": "session.browserProfile.title",
+  "en": "Profile",
+  "zh": "配置文件",
+  "ja": "プロファイル",
+  "siblings": 2
+ },
+ {
+  "key": "session.browserProfile.workspaceDefault",
+  "en": "Workspace default",
+  "siblings": 0
+ },
+ {
+  "key": "session.orcaCommands.desktopOnly",
+  "en": "Available in the desktop app",
+  "siblings": 0
+ },
+ {
+  "key": "chat.notice.botCreated",
+  "en": "Bot created",
+  "siblings": 0
+ },
+ {
+  "key": "chat.agentMessage.open",
+  "en": "Open {{name}}",
+  "siblings": 0
+ },
+ {
+  "key": "chat.agentMessage.row.started",
+  "en": "Started",
+  "siblings": 0
+ },
+ {
+  "key": "chat.agentMessage.row.reopened",
+  "en": "Reopened",
+  "siblings": 0
+ },
+ {
+  "key": "chat.agentMessage.row.followedUp",
+  "en": "Sent follow-up to",
+  "siblings": 0
+ },
+ {
+  "key": "chat.agentMessage.row.handedOff",
+  "en": "Handed off to",
+  "siblings": 0
+ },
+ {
+  "key": "chat.agentMessage.row.task",
+  "en": "Task from",
+  "siblings": 0
+ },
+ {
+  "key": "chat.agentMessage.row.update",
+  "en": "Update from",
+  "siblings": 0
+ },
+ {
+  "key": "chat.agentMessage.row.message",
+  "en": "Message from",
+  "siblings": 0
+ },
+ {
+  "key": "chat.mcp.status.notStarted",
+  "en": "Not started",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.request.notSentTo",
+  "en": "Not sent to",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.request.asked",
+  "en": "Asked",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.request.handedTo",
+  "en": "Handed to",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.request.paused",
+  "en": "{{bot}} is paused.",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.request.botsOff",
+  "en": "Bots are off.",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.request.couldNotTake",
+  "en": "{{bot}} couldn't take it.",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.request.answered",
+  "en": "✓ answered",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.request.done",
+  "en": "✓ done",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.request.notAnswered",
+  "en": "not answered",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.request.waitingOnYou",
+  "en": "waiting on you",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.request.working",
+  "en": "working…",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.request.hasIt",
+  "en": "has it",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.request.openChat",
+  "en": "Open its chat",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.offer.unknownAgent",
+  "en": "{{bot}} runs an agent this app doesn’t know. Edit to pick one.",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.offer.takesOverOne",
+  "en": "Takes over 1 workspace",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.offer.takesOverMany",
+  "en": "Takes over {{count}} workspaces",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.offer.created",
+  "en": "Created",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.offer.createdAskedOne",
+  "en": "Created · asked to take over 1 workspace",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.offer.createdAskedMany",
+  "en": "Created · asked to take over {{count}} workspaces",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.offer.createdTookOverSome",
+  "en": "Created · took over {{taken}} of {{count}} workspaces",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.offer.createdTookOverOne",
+  "en": "Created · took over 1 workspace",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.offer.createdTookOverMany",
+  "en": "Created · took over {{count}} workspaces",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.offer.deleted",
+  "en": "Created, then deleted",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.offer.nameTaken",
+  "en": "You already have a bot named {{name}}.",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.offer.rename",
+  "en": "Rename",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.offer.edit",
+  "en": "Edit",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.offer.create",
+  "en": "Create bot",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.offer.open",
+  "en": "Open",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.offer.origin",
+  "en": "Proposed by {{bot}}",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.offer.originTemplate",
+  "en": "From {{template}}, proposed by {{bot}}",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.offer.watches",
+  "en": "Watches",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.offer.does",
+  "en": "Does",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.offer.reports",
+  "en": "Reports",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.offer.willPropose",
+  "en": "Will propose",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.offer.takesOver",
+  "en": "Takes over",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.offer.template",
+  "en": "Template",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.offer.dismiss",
+  "en": "Dismiss",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.offer.notSent",
+  "en": "Couldn't send that to the bot. Try again.",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.toolAdded.heading",
+  "en": "Added a tool",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.toolAdded.removed",
+  "en": "Removed",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.toolAdded.remove",
+  "en": "Remove",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.toolAdded.signedIn",
+  "en": "Signed in",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.toolAdded.signInOnComputer",
+  "en": "Sign in on your computer",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.webhook.title",
+  "en": "Webhook",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.webhook.starts",
+  "en": "Webhook · starts “{{automation}}”",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.webhook.sampleNote",
+  "en": "A sample starts a real run.",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.webhook.sendSample",
+  "en": "Send a sample call",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.webhook.secretAdd",
+  "en": "Add signing secret…",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.webhook.secretChange",
+  "en": "Signing secret: {{sender}} · Change…",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.webhook.paused",
+  "en": "Paused",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.webhook.orphaned",
+  "en": "Not connected",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.webhook.pending",
+  "en": "Setting up",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.webhook.noCalls",
+  "en": "No calls yet",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.webhook.lastCall",
+  "en": "Last call {{ago}}",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.webhook.copied",
+  "en": "Copied",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.webhook.copyUrl",
+  "en": "Copy URL",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.webhook.copyFailed",
+  "en": "Couldn’t copy. Try again",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.memory.added",
+  "en": "Added",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.memory.removed",
+  "en": "Removed",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.memory.noteChanged",
+  "en": "Note changed",
+  "siblings": 0
+ },
+ {
+  "key": "chat.botCards.memory.indexChanged",
+  "en": "MEMORY.md changed",
+  "siblings": 0
+ },
+ {
+  "key": "chat.eventRow.running",
+  "en": "Running",
+  "siblings": 0
+ },
+ {
+  "key": "chat.eventRow.failed",
+  "en": "Failed",
+  "siblings": 0
+ },
+ {
+  "key": "chat.workerApproval.title",
+  "en": "{{worker}} · {{title}}",
+  "siblings": 0
+ },
+ {
+  "key": "chat.workerApproval.allow",
+  "en": "Allow",
+  "siblings": 0
+ },
+ {
+  "key": "chat.workerApproval.deny",
+  "en": "Deny",
+  "siblings": 0
+ },
+ {
+  "key": "bots.link.updateOrca",
+  "en": "Update Orca",
+  "siblings": 0
+ },
+ {
+  "key": "bots.link.openRequestFailed",
+  "en": "Couldn’t open request",
+  "siblings": 0
+ },
+ {
+  "key": "bots.link.botNotFound",
+  "en": "Bot not found",
+  "siblings": 0
+ },
+ {
+  "key": "bots.link.openOn",
+  "en": "Open {{name}} On",
+  "siblings": 0
+ },
+ {
+  "key": "bots.activity.readFailed",
+  "en": "Couldn’t load activity.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.activity.loading",
+  "en": "Loading activity…",
+  "siblings": 0
+ },
+ {
+  "key": "bots.activity.unavailable",
+  "en": "Activity is unavailable on this host.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.activity.retry",
+  "en": "Retry",
+  "siblings": 0
+ },
+ {
+  "key": "bots.activity.lastRead",
+  "en": "Showing the last activity read.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.activity.readFailedTitle",
+  "en": "Couldn’t load activity",
+  "siblings": 0
+ },
+ {
+  "key": "bots.activity.unavailableTitle",
+  "en": "Activity unavailable",
+  "siblings": 0
+ },
+ {
+  "key": "bots.automations.couldNotFinish",
+  "en": "Couldn’t finish",
+  "siblings": 0
+ },
+ {
+  "key": "bots.automations.runNow",
+  "en": "Run now",
+  "siblings": 0
+ },
+ {
+  "key": "bots.automations.pause",
+  "en": "Pause {{name}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.automations.resume",
+  "en": "Resume {{name}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.automations.empty",
+  "en": "Ask in chat to set up an automation.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.automations.newAutomation",
+  "en": "New automation",
+  "siblings": 0
+ },
+ {
+  "key": "bots.automations.runQueued",
+  "en": "Automation run queued.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.automations.runFailed",
+  "en": "Couldn’t start the run",
+  "siblings": 0
+ },
+ {
+  "key": "bots.automations.emptyTitle",
+  "en": "No automations yet",
+  "siblings": 0
+ },
+ {
+  "key": "bots.settings.remove",
+  "en": "Remove",
+  "siblings": 0
+ },
+ {
+  "key": "bots.settings.removeName",
+  "en": "Remove {{name}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.settings.declineName",
+  "en": "Decline {{name}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.settings.reviewName",
+  "en": "Review {{name}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.settings.removeConfirmTitle",
+  "en": "Remove {{name}}?",
+  "siblings": 0
+ },
+ {
+  "key": "bots.settings.removeConfirmMessage",
+  "en": "{{name}} can no longer ask {{botName}}.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.settings.active",
+  "en": "Active",
+  "siblings": 0
+ },
+ {
+  "key": "bots.settings.activeDetail",
+  "en": "Answers messages and runs automations.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.settings.permissions",
+  "en": "Permissions",
+  "siblings": 0
+ },
+ {
+  "key": "bots.settings.permissionsDetail",
+  "en": "The starting permission for new sessions. Anything beyond it asks in the session.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.settings.sameAsChats",
+  "en": "Same as chats",
+  "siblings": 0
+ },
+ {
+  "key": "bots.settings.sameAsChatsDetail",
+  "en": "Uses your chat permission setting.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.settings.notifications",
+  "en": "Notifications",
+  "siblings": 0
+ },
+ {
+  "key": "bots.settings.needsPermission",
+  "en": "Needs permission",
+  "siblings": 0
+ },
+ {
+  "key": "bots.settings.needsPermissionDetail",
+  "en": "When it or a worker needs your approval.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.settings.taskComplete",
+  "en": "Task complete",
+  "siblings": 0
+ },
+ {
+  "key": "bots.settings.taskCompleteDetail",
+  "en": "A thread, automation or worker finishes.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.settings.couldNotFinish",
+  "en": "Couldn’t finish",
+  "siblings": 0
+ },
+ {
+  "key": "bots.settings.couldNotFinishDetail",
+  "en": "An automation run or worker fails.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.settings.general",
+  "en": "General",
+  "siblings": 0
+ },
+ {
+  "key": "bots.saveFailed",
+  "en": "Couldn’t save",
+  "siblings": 0
+ },
+ {
+  "key": "bots.sheet.activity",
+  "en": "Activity",
+  "siblings": 0
+ },
+ {
+  "key": "bots.sheet.automations",
+  "en": "Automations",
+  "siblings": 0
+ },
+ {
+  "key": "bots.sheet.settings",
+  "en": "Settings",
+  "siblings": 0
+ },
+ {
+  "key": "bots.sheet.hint",
+  "en": "Activity, automations and settings",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.slack.mentioned",
+  "en": "When you’re mentioned in Slack",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.slack.message",
+  "en": "On a Slack message",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.slack.reaction",
+  "en": "On a Slack reaction",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.github.issueOpened",
+  "en": "When an issue is opened",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.github.prOpened",
+  "en": "When a pull request is opened",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.github.prPushed",
+  "en": "On a push to a pull request",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.github.prMerged",
+  "en": "When a pull request merges",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.github.comment",
+  "en": "On a GitHub comment",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.github.reviewComment",
+  "en": "On a review comment",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.github.review",
+  "en": "On a pull request review",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.github.mentioned",
+  "en": "When mentioned on GitHub",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.github.reviewRequested",
+  "en": "When a review is requested",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.github.assigned",
+  "en": "When assigned on GitHub",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.github.ciFailed",
+  "en": "When CI fails",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.github.ciPassed",
+  "en": "When CI passes",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.github.prConflicted",
+  "en": "When a pull request has conflicts",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.github.prClosed",
+  "en": "When a pull request is closed",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.github.prReady",
+  "en": "When a pull request is ready for review",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.github.labeled",
+  "en": "When a label is added",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.github.issueClosed",
+  "en": "When an issue is closed",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.github.deployFinished",
+  "en": "When a deployment finishes",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.github.securityAlert",
+  "en": "On a security alert",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.github.workflowFinished",
+  "en": "When a workflow run finishes",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.linear.assigned",
+  "en": "When assigned in Linear",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.linear.mentioned",
+  "en": "When mentioned in Linear",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.linear.issueCreated",
+  "en": "When a Linear issue is created",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.linear.issueMoved",
+  "en": "When a Linear issue moves",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.slackFallback",
+  "en": "On a Slack event",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.githubFallback",
+  "en": "On a GitHub event",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.linearFallback",
+  "en": "On a Linear event",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.webhookFallback",
+  "en": "When its webhook is called",
+  "siblings": 0
+ },
+ {
+  "key": "bots.events.anyFallback",
+  "en": "On an event",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chatStartFailed",
+  "en": "Couldn’t start the chat",
+  "siblings": 0
+ },
+ {
+  "key": "bots.newChatWith",
+  "en": "New chat with {{name}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.upNext.title",
+  "en": "Suggestions",
+  "siblings": 0
+ },
+ {
+  "key": "bots.upNext.looked",
+  "en": "Looked {{time}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.upNext.yesterdayAt",
+  "en": "yesterday {{time}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.upNext.looking",
+  "en": "Looking around…",
+  "siblings": 0
+ },
+ {
+  "key": "bots.upNext.start",
+  "en": "Start",
+  "siblings": 0
+ },
+ {
+  "key": "bots.upNext.dismiss",
+  "en": "Dismiss",
+  "siblings": 0
+ },
+ {
+  "key": "bots.upNext.dismissTitle",
+  "en": "Dismiss {{title}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.upNext.showMore_one",
+  "en": "Show {{count}} more",
+  "siblings": 0
+ },
+ {
+  "key": "bots.upNext.showMore_other",
+  "en": "Show {{count}} more",
+  "siblings": 0
+ },
+ {
+  "key": "bots.upNext.empty",
+  "en": "No suggestions from the last look.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.upNext.notYet",
+  "en": "{{name}} hasn’t looked around yet. Look now in Settings, or it looks on its own a few times a day.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.upNext.startFailed",
+  "en": "That suggestion is no longer listed.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.upNext.lookNowRunning",
+  "en": "Already looking around.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.upNext.lookNowPaused",
+  "en": "Turn the bot on to look around.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.upNext.lookNowFailed",
+  "en": "Couldn’t start a look. Try again.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.upNext.showMore",
+  "en": "Show {{count}} more",
+  "siblings": 0
+ },
+ {
+  "key": "bots.upNext.newInUpNext",
+  "en": "{{count}} new in Suggestions",
+  "siblings": 0
+ },
+ {
+  "key": "bots.lookAround.title",
+  "en": "Look around",
+  "siblings": 0
+ },
+ {
+  "key": "bots.lookAround.detail",
+  "en": "Reads connected apps and projects to suggest next steps. Read-only. Each look uses your agent plan, and Orca must be running on the host.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.lookAround.on",
+  "en": "Suggest next steps",
+  "siblings": 0
+ },
+ {
+  "key": "bots.lookAround.every",
+  "en": "How often",
+  "siblings": 0
+ },
+ {
+  "key": "bots.lookAround.weekdaysOnly",
+  "en": "Weekdays only",
+  "siblings": 0
+ },
+ {
+  "key": "bots.lookAround.focus",
+  "en": "Look for",
+  "siblings": 0
+ },
+ {
+  "key": "bots.lookAround.anything",
+  "en": "Anything waiting on you",
+  "siblings": 0
+ },
+ {
+  "key": "bots.lookAround.lastLooked",
+  "en": "Last looked",
+  "siblings": 0
+ },
+ {
+  "key": "bots.lookAround.looking",
+  "en": "Looking…",
+  "siblings": 0
+ },
+ {
+  "key": "bots.lookAround.lookNow",
+  "en": "Look now",
+  "siblings": 0
+ },
+ {
+  "key": "bots.lookAround.notYet",
+  "en": "Not yet",
+  "siblings": 0
+ },
+ {
+  "key": "bots.lookAround.focusPlaceholder",
+  "en": "PRs waiting on me, questions in #eng, issues due this week",
+  "siblings": 0
+ },
+ {
+  "key": "bots.lookAround.focusDetail",
+  "en": "Optional. Leave it empty and it looks for anything waiting on you.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.lookAround.save",
+  "en": "Save",
+  "siblings": 0
+ },
+ {
+  "key": "bots.lookAround.back",
+  "en": "Back to Settings",
+  "siblings": 0
+ },
+ {
+  "key": "bots.new.failed",
+  "en": "Couldn’t create the bot",
+  "siblings": 0
+ },
+ {
+  "key": "bots.new.title",
+  "en": "New bot",
+  "siblings": 0
+ },
+ {
+  "key": "bots.new.runsOnHost",
+  "en": "Runs on {{host}}.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.new.shuffle",
+  "en": "Another picture",
+  "siblings": 0
+ },
+ {
+  "key": "bots.new.namePlaceholder",
+  "en": "Name your bot",
+  "siblings": 0
+ },
+ {
+  "key": "bots.new.create",
+  "en": "Create",
+  "siblings": 0
+ },
+ {
+  "key": "bots.new.fromTemplate",
+  "en": "Start from a template",
+  "siblings": 0
+ },
+ {
+  "key": "bots.new.takesOverList",
+  "en": "Takes over {{names}}. Their agents keep running.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.new.runsOn",
+  "en": "Runs on",
+  "siblings": 0
+ },
+ {
+  "key": "bots.new.cantReach",
+  "en": "Can’t reach {{host}}. Pick another computer.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.new.otherAccount",
+  "en": "{{host}} uses its own Orca account ({{email}}). Its bots post and connect as that account.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.new.agent",
+  "en": "Agent",
+  "siblings": 0
+ },
+ {
+  "key": "bots.new.computer",
+  "en": "Computer",
+  "siblings": 0
+ },
+ {
+  "key": "bots.new.computerMessage",
+  "en": "Where the bot runs.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.new.agentOn",
+  "en": "On {{host}}.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.new.botsOffOn",
+  "en": "Bots are off on {{host}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.new.updateDesktopFirst",
+  "en": "Update Orca on {{host}} first",
+  "siblings": 0
+ },
+ {
+  "key": "bots.new.checking",
+  "en": "Checking…",
+  "siblings": 0
+ },
+ {
+  "key": "bots.connectorOffer.connected",
+  "en": "Connected",
+  "siblings": 0
+ },
+ {
+  "key": "bots.connectorOffer.onComputer",
+  "en": "Connect it in Orca on your computer, from the card in this chat.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.connectorOffer.addGitHubAccess",
+  "en": "Add repositories or organizations in Orca on your computer, from the card in this chat.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.connectorOffer.addWorkspace",
+  "en": "Add another workspace in Orca on your computer, from the card in this chat.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.workspaces.show",
+  "en": "Show {{name}}’s workspaces",
+  "siblings": 0
+ },
+ {
+  "key": "bots.workspaces.hide",
+  "en": "Hide {{name}}’s workspaces",
+  "siblings": 0
+ },
+ {
+  "key": "bots.section.title",
+  "en": "Bots",
+  "siblings": 0
+ },
+ {
+  "key": "bots.section.summary",
+  "en": "{{title}}, {{total}} bots, {{attention}} need you, {{unread}} unread, {{working}} working",
+  "siblings": 0
+ },
+ {
+  "key": "bots.section.newBot",
+  "en": "New bot",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.manageMembers",
+  "en": "Manage members",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.newGroup",
+  "en": "New group",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.cancel",
+  "en": "Cancel",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.back",
+  "en": "Back",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.group",
+  "en": "Group",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.groupActions",
+  "en": "Group actions",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.pendingRequests",
+  "en": "Pending requests",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.needsYou",
+  "en": "· Needs you",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.valuePending",
+  "en": " · {{value0}} pending",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.manageMembersMenu",
+  "en": "Manage members…",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.allBots",
+  "en": "All bots",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.onlyWhenMentioned",
+  "en": "Only when mentioned",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.stopValue",
+  "en": "Stop {{value0}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.replyToValue",
+  "en": "Reply to {{value0}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.waitingForTheNativeSession",
+  "en": "Waiting for the native session…",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.create",
+  "en": "Create",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.removingDefault",
+  "en": "Removing {{name}} changes Replies to Only when mentioned.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.loadEarlierMessages",
+  "en": "Load earlier messages",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.memberRemoved",
+  "en": "Member removed",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.composerPlaceholder",
+  "en": "Message the group, @ to mention a bot",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.repliesValue",
+  "en": "Replies: {{value0}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.whoAnswers",
+  "en": "Who answers your messages",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.peerAsked",
+  "en": "{{from}} asked {{to}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.peerFollowedUp",
+  "en": "{{bot}} followed up",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.peerReplyRead",
+  "en": "{{reader}} read {{peer}}'s reply",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.deleteTitle",
+  "en": "Delete {{name}}?",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.deleteDescription",
+  "en": "Its bots are not deleted.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.deleteConfirm",
+  "en": "Delete group",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.deleteGroupMenu",
+  "en": "Delete group…",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.you",
+  "en": "You",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.pickTwo",
+  "en": "Pick 2 or more bots",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.nameIt",
+  "en": "Name the group",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.save",
+  "en": "Save",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.namePlaceholder",
+  "en": "Name your group",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.useSuggestion",
+  "en": "Use “{{name}}”",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.suggestTwo",
+  "en": "{{a}} & {{b}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.suggestThree",
+  "en": "{{a}}, {{b}} & {{c}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.suggestMore",
+  "en": "{{a}}, {{b}} & {{count}} more",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.pickOne",
+  "en": "Pick a bot",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.needsTwoBots",
+  "en": "Needs 2 bots on {{host}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.groups.startAConversationWithThisGroupMentionBots",
+  "en": "Start a conversation with this group. Mention bots with @Name or @everyone.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.templates.title",
+  "en": "Bot templates",
+  "siblings": 0
+ },
+ {
+  "key": "bots.templates.blank",
+  "en": "Blank bot",
+  "siblings": 0
+ },
+ {
+  "key": "bots.templates.blankLine",
+  "en": "Tell it what it’s for in its first chat.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.templates.byOrca",
+  "en": "{{category}} · by Orca",
+  "siblings": 0
+ },
+ {
+  "key": "bots.templates.useTemplate",
+  "en": "Use template…",
+  "siblings": 0
+ },
+ {
+  "key": "bots.templates.backToTemplates",
+  "en": "Back to templates",
+  "siblings": 0
+ },
+ {
+  "key": "bots.templates.firstChat",
+  "en": "What it does first",
+  "siblings": 0
+ },
+ {
+  "key": "bots.templates.needsSetup",
+  "en": "Needs setup",
+  "siblings": 0
+ },
+ {
+  "key": "bots.templates.comesWith",
+  "en": "Comes with",
+  "siblings": 0
+ },
+ {
+  "key": "bots.templates.comesWithNote",
+  "en": "Schedules start turned off. Automations and connectors are set up in its first chat, once you pick the repo or channel.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.templates.stateOff",
+  "en": "Off",
+  "siblings": 0
+ },
+ {
+  "key": "bots.templates.stateFirstChat",
+  "en": "First chat",
+  "siblings": 0
+ },
+ {
+  "key": "bots.templates.stateNotConnected",
+  "en": "Not connected",
+  "siblings": 0
+ },
+ {
+  "key": "bots.templates.originTemplateNamed",
+  "en": "From the {{template}} template",
+  "siblings": 0
+ },
+ {
+  "key": "bots.templates.search",
+  "en": "Search templates",
+  "siblings": 0
+ },
+ {
+  "key": "bots.templates.noMatch",
+  "en": "No templates match “{{query}}”",
+  "siblings": 0
+ },
+ {
+  "key": "bots.templates.category.coding",
+  "en": "Coding",
+  "siblings": 0
+ },
+ {
+  "key": "bots.templates.category.releases",
+  "en": "Releases & CI",
+  "siblings": 0
+ },
+ {
+  "key": "bots.templates.category.support",
+  "en": "Support & triage",
+  "siblings": 0
+ },
+ {
+  "key": "bots.templates.category.planning",
+  "en": "Planning & docs",
+  "siblings": 0
+ },
+ {
+  "key": "bots.templates.category.ops",
+  "en": "Ops",
+  "siblings": 0
+ },
+ {
+  "key": "bots.templates.category.personal",
+  "en": "Personal assistant",
+  "siblings": 0
+ },
+ {
+  "key": "bots.templates.allCategories",
+  "en": "All",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.nowRunning",
+  "en": "Already tidying.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.nowBusy",
+  "en": "A chat is still working. Try again when it’s done.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.nowFailed",
+  "en": "Could not start a tidy-up. Try again.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.undoSuperseded",
+  "en": "Memory changed since this tidy-up, so it was left as it is.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.undoFailed",
+  "en": "Could not undo the tidy-up.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.everyNight",
+  "en": "Each night",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.everyWeek",
+  "en": "Once a week",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.title",
+  "en": "Memory upkeep",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.on",
+  "en": "Tidy memory overnight",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.turnedOff",
+  "en": "Turned off after 10 tidy-ups in a row failed.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.every",
+  "en": "How often",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.lastTidied",
+  "en": "Last tidied",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.never",
+  "en": "Not yet",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.tidying",
+  "en": "Tidying…",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.now",
+  "en": "Tidy now",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.footer",
+  "en": "Changes memory files only. Uses your agent plan, like a short chat. Orca must be running on your computer.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.merged",
+  "en": "Merged {{count}} repeated lines",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.replaced",
+  "en": "Marked replaced: {{fact}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.filed",
+  "en": "Filed {{count}} lines into memory/{{topic}}.md",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.moved",
+  "en": "Moved {{count}} old lines to the archive",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.readChats",
+  "en": "read {{count}} chats",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.took",
+  "en": "took {{value}} min",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.learned",
+  "en": "Learned from chats",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.tidied",
+  "en": "Tidied",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.undone",
+  "en": "Undone",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.undoAll",
+  "en": "Undo this tidy-up",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.undo",
+  "en": "Undo",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.undoNote",
+  "en": "Undo puts MEMORY.md back as it was before this tidy-up, all at once. Full history and memory editing are on your computer, in Settings → Memory.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.summaryTitle",
+  "en": "Last tidy-up",
+  "siblings": 0
+ },
+ {
+  "key": "bots.tidyUp.undoStale",
+  "en": "A newer tidy-up ran since. Review it before undoing.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.list.updateOrcaOn",
+  "en": "Update Orca on {{host}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.list.cantReach",
+  "en": "Can’t reach {{host}}. Its bots show when it’s back.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.list.noBotsYet",
+  "en": "No bots yet.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.list.offline",
+  "en": "Offline",
+  "siblings": 0
+ },
+ {
+  "key": "bots.list.updateToSee",
+  "en": "Update Orca on {{host}} to see its bots.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.list.offEnd",
+  "en": "Bots are off on {{host}}.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.list.updateToCreate",
+  "en": "Update Orca on {{host}} to make bots from your phone.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.replying",
+  "en": "Replying…",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.waiting",
+  "en": "Waiting for you",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.sayHi",
+  "en": "Say hi to {{name}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.closedShort",
+  "en": "closed",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.needsYou",
+  "en": "Needs you",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.askingBot",
+  "en": "Asking {{name}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.handedOver",
+  "en": "Handed over",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.fromClosedChat",
+  "en": "From closed chat",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.automationTerminal",
+  "en": "Automation run · terminal",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.untitledWorker",
+  "en": "Worker",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.home",
+  "en": "Home Chat",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.untitled",
+  "en": "New chat",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.fold",
+  "en": "Fold {{name}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.unfold",
+  "en": "Unfold {{name}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.unread",
+  "en": "Unread",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.moreRunningStep",
+  "en": "Show 8 more · {{count}} more running",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.moreRunning",
+  "en": "Show {{count}} more running",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.earlierStep",
+  "en": "Show 8 more · {{count}} earlier",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.earlier",
+  "en": "Show {{count}} earlier",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.showFewer",
+  "en": "Show fewer",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.title",
+  "en": "Chats",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.search",
+  "en": "Search chats and workers",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.noMatch",
+  "en": "No chats or workers match.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.empty",
+  "en": "Side chats, Slack and Linear threads and automation runs show up here, each with the workers it starts.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.newTag",
+  "en": "New",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.olderStep",
+  "en": "Show 8 more · {{count}} older",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.older",
+  "en": "Show {{count}} older",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.terminalRunDesktopOnly",
+  "en": "Terminal run · open it in Automations on the computer",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.searchFailed",
+  "en": "Couldn't search this bot's chats.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.searchRetry",
+  "en": "Try again",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.loadingChats",
+  "en": "Loading chats",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.handedOverInline",
+  "en": "handed over",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.fromClosedChatInline",
+  "en": "from closed chat",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.statusUnknown",
+  "en": "Status unknown",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.kindSlack",
+  "en": "Slack thread",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.kindLinear",
+  "en": "Linear issue",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.kindGithub",
+  "en": "GitHub thread",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.kindAutomation",
+  "en": "Automation run",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.kindSide",
+  "en": "Side chat",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.replyingState",
+  "en": "Replying",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.showEightMoreWorkers",
+  "en": "Show 8 more workers",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.showMoreWorkers_one",
+  "en": "Show {{count}} more worker",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.showMoreWorkers_other",
+  "en": "Show {{count}} more workers",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.moreMatches_one",
+  "en": "{{count}} more match. Search for more of a name to narrow it.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.moreMatches_other",
+  "en": "{{count}} more matches. Search for more of a name to narrow it.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chats.readFailedTitle",
+  "en": "Couldn’t load chats",
+  "siblings": 0
+ },
+ {
+  "key": "bots.row.replyingIn",
+  "en": "Replying in {{place}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.row.replyingOn",
+  "en": "Replying on {{place}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.row.paused",
+  "en": "Paused",
+  "siblings": 0
+ },
+ {
+  "key": "bots.row.reading",
+  "en": "Reading your message",
+  "siblings": 0
+ },
+ {
+  "key": "bots.row.replying",
+  "en": "Replying",
+  "siblings": 0
+ },
+ {
+  "key": "bots.row.waitingCount",
+  "en": "Waiting on {{count}} events",
+  "siblings": 0
+ },
+ {
+  "key": "bots.row.waitingFor",
+  "en": "Waiting for {{label}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.row.waitingForUntil",
+  "en": "Waiting for {{label}} · until {{time}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.panel.needYou_one",
+  "en": "{{count}} needs you",
+  "siblings": 0
+ },
+ {
+  "key": "bots.panel.needYou_other",
+  "en": "{{count}} need you",
+  "siblings": 0
+ },
+ {
+  "key": "bots.panel.working",
+  "en": "{{count}} working",
+  "siblings": 0
+ },
+ {
+  "key": "bots.panel.itemsNeedYou",
+  "en": "Items, {{count}} need you",
+  "siblings": 0
+ },
+ {
+  "key": "bots.panel.chats",
+  "en": "Chats",
+  "siblings": 0
+ },
+ {
+  "key": "bots.panel.files",
+  "en": "Files",
+  "siblings": 0
+ },
+ {
+  "key": "bots.panel.backTo",
+  "en": "Back to {{name}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.opensInItems",
+  "en": "Opens in Items",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.moreItems",
+  "en": "+{{count}} more",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.commentOn",
+  "en": "On",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.marked",
+  "en": "Marked {{items}} done",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.canceled",
+  "en": "Canceled {{items}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.added",
+  "en": "Added {{items}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.askedYou",
+  "en": "Asked you about {{items}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.moved",
+  "en": "Moved {{items}} to {{status}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.commented",
+  "en": "Commented on {{items}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.updated",
+  "en": "Updated {{items}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.linkedMany",
+  "en": "Linked {{count}} links to {{items}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.linked",
+  "en": "Linked {{link}} to {{items}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.aWorker",
+  "en": "a worker",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.youMarkedManyDone",
+  "en": "You marked {{count}} items done: {{items}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.youCanceledMany",
+  "en": "You canceled {{count}} items: {{items}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.youMovedMany",
+  "en": "You moved {{count}} items to {{status}}: {{items}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.youMarked",
+  "en": "You marked {{items}} done",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.youCanceled",
+  "en": "You canceled {{items}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.youMoved",
+  "en": "You moved {{items}} to {{status}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.youChanged",
+  "en": "You changed {{items}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.changes",
+  "en": "{{from}} → {{to}} · {{count}} changes",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.chipLabel",
+  "en": "{{title}}, {{status}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.addedAndMoved",
+  "en": "Added and moved {{items}} to {{status}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.addedAndAsked",
+  "en": "Added and asked you about {{items}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.addedAndDone",
+  "en": "Added and marked {{items}} done",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.addedAndCanceled",
+  "en": "Added and canceled {{items}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.openChat",
+  "en": "Open {{chat}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.byChat.moved",
+  "en": "{{chat}} moved {{items}} to {{status}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.byChat.askedYou",
+  "en": "{{chat}} asked you about {{items}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.byChat.marked",
+  "en": "{{chat}} marked {{items}} done",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.byChat.canceled",
+  "en": "{{chat}} canceled {{items}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.byChat.added",
+  "en": "{{chat}} added {{items}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.byChat.commented",
+  "en": "{{chat}} commented on {{items}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.byChat.updated",
+  "en": "{{chat}} updated {{items}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.byChat.linkedMany",
+  "en": "{{chat}} linked {{count}} links to {{items}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.byChat.linked",
+  "en": "{{chat}} linked {{link}} to {{items}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chat.anotherChat",
+  "en": "Another chat",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.status.planned",
+  "en": "Planned",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.status.working",
+  "en": "In progress",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.status.needsYou",
+  "en": "Needs you",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.status.done",
+  "en": "Done",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.status.canceled",
+  "en": "Canceled",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.needYouCount_one",
+  "en": "{{count}} item needs you",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.needYouCount_other",
+  "en": "{{count}} items need you",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.homeChat",
+  "en": "Home Chat",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.chatFallback",
+  "en": "Chat",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.filter.needsYou",
+  "en": "Needs you only",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.filter.label",
+  "en": "Filter items",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.filter.all",
+  "en": "All chats",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.filter.remove",
+  "en": "Remove filter {{name}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.filter.clear",
+  "en": "Clear filter",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.tab",
+  "en": "Items",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.field.doneMeansLower",
+  "en": "done means",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.field.description",
+  "en": "description",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.field.title",
+  "en": "title",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.field.status",
+  "en": "Status",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.field.chat",
+  "en": "Chat",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.field.doneMeans",
+  "en": "Done means",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.field.snoozed",
+  "en": "Snoozed",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.activity.changed",
+  "en": "changed {{field}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.activity.closed",
+  "en": "marked this done",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.activity.canceled",
+  "en": "canceled this",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.activity.reopened",
+  "en": "reopened this",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.activity.moved",
+  "en": "moved this to",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.activity.madeNeedsYou",
+  "en": "added this item as Needs you",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.activity.made",
+  "en": "added this item",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.activity.linked",
+  "en": "linked {{links}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.activity.workerStarted",
+  "en": "Worker started:",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.activity.workerFailed",
+  "en": "Worker stopped:",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.activity.workerFinished",
+  "en": "Worker finished:",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.activity.waitingOnYou",
+  "en": "Waiting on you",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.activity.reply",
+  "en": "Reply",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.activity.asksYou",
+  "en": "asks you",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.activity.askedYou",
+  "en": "asked you",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.activity.answered",
+  "en": "Answered",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.activity.noComments",
+  "en": "No comments yet.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.activity.snoozed",
+  "en": "snoozed this until {{when}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.activity.snoozedBare",
+  "en": "snoozed this",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.activity.unsnoozed",
+  "en": "unsnoozed this",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.activity.snoozeEnded",
+  "en": "Back from snooze early",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.comment.offline",
+  "en": "{{host}} is offline. Your comment is kept; Comment works again when it’s back.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.comment.label",
+  "en": "Comment",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.comment.add",
+  "en": "Add a comment…",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.comment.submit",
+  "en": "Comment",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.link.notRead",
+  "en": "Not read yet",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.link.merged",
+  "en": "Merged",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.link.draft",
+  "en": "Draft",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.link.closed",
+  "en": "Closed",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.link.open",
+  "en": "Open",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.link.checksPassing",
+  "en": "Checks passing",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.link.checksFailing",
+  "en": "Checks failing",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.link.checksPending",
+  "en": "Checks pending",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.link.pr",
+  "en": "PR #{{number}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.link.issue",
+  "en": "Issue #{{number}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.link.serverPr",
+  "en": "PR not shown for server work yet",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.link.openInBrowser",
+  "en": "Open in browser",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.link.copyLink",
+  "en": "Copy link",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.link.copyPath",
+  "en": "Copy path",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.link.fileOutside",
+  "en": "{{path}} isn't in this bot's folder",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.open.failed",
+  "en": "Couldn’t open this item.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.open.notFound",
+  "en": "{{host}} didn’t find it. It may belong to a bot on another computer.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.open.noAnswer",
+  "en": "{{host}} didn’t answer.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.retry",
+  "en": "Retry",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.loading",
+  "en": "Loading items…",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.view.title",
+  "en": "Item",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.view.chatAndWhen",
+  "en": "{{chat}} · {{when}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.view.canceledNote",
+  "en": "Canceled:",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.view.doneNote",
+  "en": "Done:",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.view.links",
+  "en": "Links",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.view.activity",
+  "en": "Activity",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.view.showEarlier",
+  "en": "Show earlier",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.view.showLess",
+  "en": "Show less",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.view.showMore",
+  "en": "Show more",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.readFailedShort",
+  "en": "Couldn’t load items.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.lastRead",
+  "en": "Showing the last items read.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.row.select",
+  "en": "Select {{title}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.selected",
+  "en": "{{count}} selected",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.pill.moveTo",
+  "en": "Move to",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.pill.clear",
+  "en": "Clear selection",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.pill.moveCount_one",
+  "en": "Move {{count}} item to",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.pill.moveCount_other",
+  "en": "Move {{count}} items to",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.menu.select",
+  "en": "Select",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.menu.done",
+  "en": "Done",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.menu.changeStatus",
+  "en": "Change status",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.menu.openChat",
+  "en": "Open {{chat}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.menu.cancelShort",
+  "en": "Cancel",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.stale.confirm_one",
+  "en": "Cancel {{count}} stale item?",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.stale.confirm_other",
+  "en": "Cancel {{count}} stale items?",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.stale.confirmWhy",
+  "en": "Reason sent to the bot: “{{reason}}” Nothing is deleted.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.stale.reason",
+  "en": "No activity for {{count}} days.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.stale.cancelAll",
+  "en": "Cancel all",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.cancel.keep",
+  "en": "Keep",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.cancel.confirmMany",
+  "en": "Cancel {{count}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.cancel.titleMany",
+  "en": "Cancel {{count}} items?",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.cancel.titleOne",
+  "en": "Cancel {{title}}?",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.cancel.why",
+  "en": "The bot sees the reason. Nothing is deleted.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.cancel.placeholder",
+  "en": "Reason",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.cancel.confirmOne",
+  "en": "Cancel item",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.cancel.offline",
+  "en": "{{host}} is offline. Your reason is kept; {{action}} works again when it’s back.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.strip.view",
+  "en": "View",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.group.stale",
+  "en": "Stale",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.group.closed",
+  "en": "Closed",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.group.new",
+  "en": "{{count}} new",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.group.showMore",
+  "en": "Show {{count}} more",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.group.snoozed",
+  "en": "Snoozed",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.empty.title",
+  "en": "No items yet",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.empty.body",
+  "en": "When {{bot}} takes on something for you, it shows up here with what it is doing and what it needs from you.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.empty.needsYou",
+  "en": "Nothing needs you.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.empty.filtered",
+  "en": "No items match.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.toast.markedDone",
+  "en": "Marked {{title}} done",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.toast.canceledOne",
+  "en": "Canceled {{title}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.toast.movedOne",
+  "en": "Moved {{title}} to {{status}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.toast.movedMany",
+  "en": "Moved {{count}} items to {{status}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.toast.doneFailed",
+  "en": "Couldn’t mark it done: {{why}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.toast.moveFailed_one",
+  "en": "Couldn’t move it: {{why}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.toast.moveFailed_other",
+  "en": "Couldn’t move {{count}} items: {{why}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.toast.snoozeFailed",
+  "en": "Couldn’t snooze: {{why}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.toast.unsnoozedOne",
+  "en": "Unsnoozed {{title}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.toast.snoozedOne",
+  "en": "Snoozed {{title}} until {{when}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.toast.unsnoozedMany",
+  "en": "Unsnoozed {{count}} items",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.toast.snoozedMany",
+  "en": "Snoozed {{count}} items until {{when}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.write.unknown",
+  "en": "The connection dropped while sending, so it may have arrived. Check Activity after it reconnects before sending again.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.write.offline",
+  "en": "{{host}} is offline.",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.thisComputer",
+  "en": "The computer",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.snooze.rowUntil",
+  "en": "until {{when}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.snooze.sheet",
+  "en": "Snooze…",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.snooze.pick",
+  "en": "Pick a time…",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.snooze.unsnooze",
+  "en": "Unsnooze",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.snooze.today",
+  "en": "Today",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.snooze.tomorrow",
+  "en": "Tomorrow",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.snooze.until",
+  "en": "Snoozed until {{when}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.snooze.pickTitle",
+  "en": "Snooze until",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.snooze.pickDay",
+  "en": "Snooze until which day?",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.snooze.pickHour",
+  "en": "At what time?",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.readFailedTitle",
+  "en": "Couldn’t load items",
+  "siblings": 0
+ },
+ {
+  "key": "bots.items.ask.youAnswered",
+  "en": "You answered:",
+  "siblings": 0
+ },
+ {
+  "key": "bots.needs.permissionTool",
+  "en": "Permission · {{tool}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.needs.permission",
+  "en": "Permission needed",
+  "siblings": 0
+ },
+ {
+  "key": "bots.needs.waiting",
+  "en": "Waiting for you",
+  "siblings": 0
+ },
+ {
+  "key": "bots.needs.whereItRuns",
+  "en": "{{need}} · open it where it runs",
+  "siblings": 0
+ },
+ {
+  "key": "bots.needs.worker",
+  "en": "Worker: {{name}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.needs.actionFor",
+  "en": "{{action}}: {{title}}",
+  "siblings": 0
+ },
+ {
+  "key": "bots.needs.open",
+  "en": "Open",
+  "siblings": 0
+ },
+ {
+  "key": "bots.chat.nothingToReport",
+  "en": "Nothing to report",
+  "siblings": 0
+ },
+ {
+  "key": "auto.components.status.bar.StatusBar.c676918adc",
+  "en": "System default",
+  "siblings": 0
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.opencodeInvalidWorkspaceId",
+  "en": "Invalid workspace ID format",
+  "zh": "工作区 ID 格式无效",
+  "ja": "ワークスペース ID の形式が無効です",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.sessionCookieNotConfigured",
+  "en": "Session cookie not configured",
+  "zh": "未配置会话 Cookie",
+  "ja": "セッション Cookie が設定されていません",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.opencodeNoAuthCookie",
+  "en": "No auth cookie found — paste the full Cookie header from opencode.ai DevTools",
+  "zh": "未找到认证 Cookie — 请从 opencode.ai DevTools 粘贴完整 Cookie 请求头",
+  "ja": "認証 Cookie が見つかりません — opencode.ai の DevTools から Cookie ヘッダー全体を貼り付けてください",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.opencodeNoWorkspaceId",
+  "en": "No workspace ID found — set a Workspace ID override in settings",
+  "zh": "未找到工作区 ID — 请在设置中填写工作区 ID 覆盖",
+  "ja": "ワークスペース ID が見つかりません — 設定でワークスペース ID の上書きを設定してください",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.opencodeNoWorkspaceIdShort",
+  "en": "No workspace ID found",
+  "zh": "未找到工作区 ID",
+  "ja": "ワークスペース ID が見つかりません",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.workspacesFetchFailed",
+  "en": "Workspaces fetch failed ({{status}})",
+  "zh": "工作区列表获取失败 ({{status}})",
+  "ja": "ワークスペースの取得に失敗しました（{{status}}）",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.usagePageFetchFailed",
+  "en": "Usage page fetch failed ({{status}})",
+  "zh": "用量页面获取失败 ({{status}})",
+  "ja": "使用量ページの取得に失敗しました（{{status}}）",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.couldNotParseUsagePage",
+  "en": "Could not parse usage data from page",
+  "zh": "无法从页面解析用量数据",
+  "ja": "ページから使用量データを解析できませんでした",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.couldNotParseUsageAnyWorkspace",
+  "en": "Could not parse usage data from any available workspace",
+  "zh": "无法从任何可用工作区解析用量数据",
+  "ja": "利用可能ないずれのワークスペースからも使用量データを解析できませんでした",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.minimaxCookieNotConfigured",
+  "en": "MiniMax session cookie not configured",
+  "zh": "未配置 MiniMax 会话 Cookie",
+  "ja": "MiniMax のセッション Cookie が設定されていません",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.minimaxSessionExpired",
+  "en": "MiniMax session expired. Replace the MiniMax cookie in Settings.",
+  "zh": "MiniMax 会话已过期，请在设置中更换 MiniMax Cookie",
+  "ja": "MiniMax のセッションの有効期限が切れました。設定で MiniMax の Cookie を置き換えてください。",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.minimaxAuthCookieMissing",
+  "en": "MiniMax auth cookie not found — paste a Cookie header with _token",
+  "zh": "未找到 MiniMax 认证 Cookie — 请粘贴包含 _token 的 Cookie 请求头",
+  "ja": "MiniMax の認証 Cookie が見つかりません — _token を含む Cookie ヘッダーを貼り付けてください",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.minimaxModelUsageMissing",
+  "en": "MiniMax usage data for the configured model was not found",
+  "zh": "未找到所选模型的 MiniMax 用量数据",
+  "ja": "設定されたモデルの MiniMax 使用量データが見つかりませんでした",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.minimaxCookieDecryptFailed",
+  "en": "MiniMax session cookie could not be decrypted",
+  "zh": "无法解密 MiniMax 会话 Cookie",
+  "ja": "MiniMax のセッション Cookie を復号できませんでした",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.kimiNotSignedIn",
+  "en": "Not signed in to Kimi Code",
+  "zh": "未登录 Kimi Code",
+  "ja": "Kimi Code にサインインしていません",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.kimiCredentialsInvalid",
+  "en": "Kimi credentials file is invalid",
+  "zh": "Kimi 凭据文件无效",
+  "ja": "Kimi の認証情報ファイルが無効です",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.kimiCredentialsMissingToken",
+  "en": "Kimi credentials file is missing an access token",
+  "zh": "Kimi 凭据文件缺少访问令牌",
+  "ja": "Kimi の認証情報ファイルにアクセストークンがありません",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.kimiQuotaWindowsMissing",
+  "en": "Kimi usage response did not include quota windows",
+  "zh": "Kimi 用量响应未包含配额窗口",
+  "ja": "Kimi の使用量レスポンスにクォータの期間が含まれていませんでした",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.wslKimiHomeUnavailable",
+  "en": "WSL Kimi home unavailable for {{distro}}",
+  "zh": "WSL Kimi 主目录不可用({{distro}})",
+  "ja": "{{distro}} の WSL Kimi ホームディレクトリを利用できません",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.kimiSessionExpired",
+  "en": "Kimi session expired — run kimi {{where}}, then retry usage.",
+  "zh": "Kimi 会话已过期 — 请在 {{where}} 运行 kimi，然后重试用量",
+  "ja": "Kimi のセッションの有効期限が切れました — kimi を実行してから（{{where}}）、使用量の取得を再試行してください。",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.kimiUsageUnauthorizedHttp",
+  "en": "Kimi usage request unauthorized (HTTP {{status}})",
+  "zh": "Kimi 用量请求未授权 (HTTP {{status}})",
+  "ja": "Kimi の使用量リクエストが認証されていません（HTTP {{status}}）",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.kimiUsageFailedHttp",
+  "en": "Kimi usage request failed (HTTP {{status}})",
+  "zh": "Kimi 用量请求失败 (HTTP {{status}})",
+  "ja": "Kimi の使用量リクエストに失敗しました（HTTP {{status}}）",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.grokNotSignedIn",
+  "en": "Not signed in to Grok — run grok login",
+  "zh": "未登录 Grok — 请运行 grok login",
+  "ja": "Grok にサインインしていません — grok login を実行してください",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.grokAuthInvalid",
+  "en": "Grok auth file is invalid",
+  "zh": "Grok 认证文件无效",
+  "ja": "Grok の認証ファイルが無効です",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.grokAuthUnreadable",
+  "en": "Unable to read Grok auth file",
+  "zh": "无法读取 Grok 认证文件",
+  "ja": "Grok の認証ファイルを読み取れません",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.grokSignInExpired",
+  "en": "Grok sign-in expired — run grok on the computer running Orca; sign in if prompted. No chat message is needed.",
+  "zh": "Grok 登录已过期 — 请在运行 Orca 的电脑上运行 grok，如有提示请完成登录，无需发送聊天消息",
+  "ja": "Grok のサインインの有効期限が切れました — Orca を実行しているコンピュータで grok を実行し、求められたらサインインしてください。チャットメッセージを送る必要はありません。",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.grokBillingConfigMissing",
+  "en": "Grok billing response did not include config",
+  "zh": "Grok 账单响应未包含配置",
+  "ja": "Grok の課金レスポンスに設定が含まれていませんでした",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.grokBillingUsageMissing",
+  "en": "Grok billing response did not include credit usage",
+  "zh": "Grok 账单响应未包含额度用量",
+  "ja": "Grok の課金レスポンスにクレジット使用量が含まれていませんでした",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.grokUsageUnauthorizedHttp",
+  "en": "Grok usage request unauthorized (HTTP {{status}})",
+  "zh": "Grok 用量请求未授权 (HTTP {{status}})",
+  "ja": "Grok の使用量リクエストが認証されていません（HTTP {{status}}）",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.grokUsageFailedHttp",
+  "en": "Grok usage request failed (HTTP {{status}})",
+  "zh": "Grok 用量请求失败 (HTTP {{status}})",
+  "ja": "Grok の使用量リクエストに失敗しました（HTTP {{status}}）",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.geminiOauthDisabled",
+  "en": "Gemini CLI OAuth is disabled in settings",
+  "zh": "设置中已禁用 Gemini CLI OAuth",
+  "ja": "Gemini CLI の OAuth は設定で無効になっています",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.geminiCredentialsNotFound",
+  "en": "Gemini CLI credentials not found",
+  "zh": "未找到 Gemini CLI 凭据",
+  "ja": "Gemini CLI の認証情報が見つかりません",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.geminiProjectIdNotFound",
+  "en": "Gemini project ID not found",
+  "zh": "未找到 Gemini 项目 ID",
+  "ja": "Gemini のプロジェクト ID が見つかりません",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.tokenRefreshFailed",
+  "en": "Token refresh failed",
+  "zh": "Token 刷新失败",
+  "ja": "トークンの更新に失敗しました",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.codexNotSignedIn",
+  "en": "Codex not signed in",
+  "zh": "Codex 未登录",
+  "ja": "Codex にサインインしていません",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.codexHomeUnavailable",
+  "en": "Codex home unavailable",
+  "zh": "Codex 主目录不可用",
+  "ja": "Codex のホームディレクトリを利用できません",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.wslCodexHomeUnavailable",
+  "en": "WSL Codex home unavailable for {{distro}}",
+  "zh": "WSL Codex 主目录不可用({{distro}})",
+  "ja": "{{distro}} の WSL Codex ホームディレクトリを利用できません",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.codexRebuildingIndex",
+  "en": "Codex is rebuilding its session index; usage will refresh when recovery finishes",
+  "zh": "Codex 正在重建会话索引，恢复完成后将刷新用量",
+  "ja": "Codex がセッションインデックスを再構築中のため、復旧が完了すると使用量が更新されます",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.chatgptAuthRequired",
+  "en": "ChatGPT authentication required to read rate limits",
+  "zh": "需要 ChatGPT 认证才能读取速率限制",
+  "ja": "レート制限を読み取るには ChatGPT の認証が必要です",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.claudeRateLimited",
+  "en": "Claude usage is rate limited right now.",
+  "zh": "Claude 用量当前已达速率限制",
+  "ja": "現在、Claude の使用量の取得がレート制限されています。",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.claudeUsageUnavailable",
+  "en": "Claude usage is unavailable right now.",
+  "zh": "Claude 用量当前不可用",
+  "ja": "現在、Claude の使用量を取得できません。",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.claudeOauthTokenUnavailable",
+  "en": "Claude OAuth access token unavailable",
+  "zh": "Claude OAuth 访问令牌不可用",
+  "ja": "Claude の OAuth アクセストークンを利用できません",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.claudeKeychainUnavailable",
+  "en": "Claude Keychain credentials unavailable",
+  "zh": "无法读取 Claude Keychain 凭据",
+  "ja": "Claude のキーチェーン認証情報を利用できません",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.claudePlanUsageUnavailable",
+  "en": "Claude plan usage is unavailable for this Claude CLI session.",
+  "zh": "此 Claude CLI 会话无法获取套餐用量",
+  "ja": "この Claude CLI セッションでは Claude プランの使用量を利用できません。",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.waitingForClaudeSession",
+  "en": "Waiting for Claude session",
+  "zh": "正在等待 Claude 会话",
+  "ja": "Claude セッションを待機中",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.wslClaudeConfigUnavailable",
+  "en": "WSL Claude config unavailable for {{distro}}",
+  "zh": "WSL Claude 配置不可用({{distro}})",
+  "ja": "{{distro}} の WSL Claude 設定を利用できません",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.noCredentials",
+  "en": "No credentials",
+  "zh": "无凭据",
+  "ja": "認証情報がありません",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.fetchAborted",
+  "en": "Rate-limit fetch aborted",
+  "zh": "速率限制获取已中止",
+  "ja": "レート制限の取得が中断されました",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.failedToLoadUsage",
+  "en": "Failed to load usage data",
+  "zh": "无法加载用量数据",
+  "ja": "使用量データの読み込みに失敗しました",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.ptyUsageTimeout",
+  "en": "PTY timeout — /usage panel did not render",
+  "zh": "PTY 超时 — /usage 面板未渲染",
+  "ja": "PTY がタイムアウトしました — /usage パネルが表示されませんでした",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.cliExitedBeforeUsage",
+  "en": "CLI exited before /usage rendered",
+  "zh": "CLI 在 /usage 渲染前退出",
+  "ja": "/usage が表示される前に CLI が終了しました",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.cliExitedBeforeStatus",
+  "en": "CLI exited before status was available",
+  "zh": "CLI 在状态可用前退出",
+  "ja": "ステータスを取得する前に CLI が終了しました",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.quotaFetchFailed",
+  "en": "Quota fetch failed ({{status}})",
+  "zh": "配额获取失败 ({{status}})",
+  "ja": "クォータの取得に失敗しました（{{status}}）",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.geminiProjectIdLoadFailed",
+  "en": "Failed to load Gemini project ID (HTTP {{status}})",
+  "zh": "加载 Gemini 项目 ID 失败 (HTTP {{status}})",
+  "ja": "Gemini のプロジェクト ID を読み込めませんでした（HTTP {{status}}）",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.geminiProjectIdMissingInResponse",
+  "en": "Gemini project ID not found in API response",
+  "zh": "API 响应中未找到 Gemini 项目 ID",
+  "ja": "API レスポンスに Gemini のプロジェクト ID が見つかりません",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.minimaxUsageFetchFailed",
+  "en": "MiniMax usage fetch failed ({{status}})",
+  "zh": "MiniMax 用量获取失败 ({{status}})",
+  "ja": "MiniMax の使用量の取得に失敗しました（{{status}}）",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.minimaxReturnedError",
+  "en": "MiniMax returned an error",
+  "zh": "MiniMax 返回错误",
+  "ja": "MiniMax がエラーを返しました",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.minimaxInvalidUsageResponse",
+  "en": "Invalid MiniMax usage response",
+  "zh": "MiniMax 用量响应无效",
+  "ja": "MiniMax の使用量レスポンスが無効です",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.minimaxUnknownUsageError",
+  "en": "Unknown MiniMax usage error",
+  "zh": "未知 MiniMax 用量错误",
+  "ja": "MiniMax の使用量の取得で不明なエラーが発生しました",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.kimiCredentialsUnreadable",
+  "en": "Unable to read Kimi credentials",
+  "zh": "无法读取 Kimi 凭据",
+  "ja": "Kimi の認証情報を読み取れません",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.kimiUsageRequestFailed",
+  "en": "Kimi usage request failed",
+  "zh": "Kimi 用量请求失败",
+  "ja": "Kimi の使用量リクエストに失敗しました",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.grokUsageRequestFailed",
+  "en": "Grok usage request failed",
+  "zh": "Grok 用量请求失败",
+  "ja": "Grok の使用量リクエストに失敗しました",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.rpcTimeout",
+  "en": "RPC timeout",
+  "zh": "RPC 超时",
+  "ja": "RPC がタイムアウトしました",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.rpcFailed",
+  "en": "RPC failed",
+  "zh": "RPC 失败",
+  "ja": "RPC に失敗しました",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.signInWithChatgpt",
+  "en": "Sign in with ChatGPT",
+  "zh": "请使用 ChatGPT 登录",
+  "ja": "ChatGPT でサインイン",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.codexCliNotFound",
+  "en": "Codex CLI not found",
+  "zh": "未找到 Codex CLI",
+  "ja": "Codex CLI が見つかりません",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.codexCliCannotRun",
+  "en": "Codex CLI found but could not run — Node.js may not be in your PATH",
+  "zh": "已找到 Codex CLI 但无法运行 — Node.js 可能不在 PATH 中",
+  "ja": "Codex CLI は見つかりましたが実行できませんでした — Node.js が PATH に含まれていない可能性があります",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.rpcProcessExited",
+  "en": "RPC process exited unexpectedly",
+  "zh": "RPC 进程意外退出",
+  "ja": "RPC プロセスが予期せず終了しました",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.ptyTimeout",
+  "en": "PTY timeout",
+  "zh": "PTY 超时",
+  "ja": "PTY がタイムアウトしました",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.failedToParseCliOutput",
+  "en": "Failed to parse CLI output",
+  "zh": "解析 CLI 输出失败",
+  "ja": "CLI 出力の解析に失敗しました",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.codexSignInCheckTimeout",
+  "en": "Timed out while checking Codex sign-in status",
+  "zh": "检查 Codex 登录状态超时",
+  "ja": "Codex のサインイン状態の確認中にタイムアウトしました",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.codexSignInStatusUnavailable",
+  "en": "Codex sign-in status is unavailable",
+  "zh": "Codex 登录状态不可用",
+  "ja": "Codex のサインイン状態を取得できません",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.codexResetFailedHttp",
+  "en": "Codex reset failed: HTTP {{status}}",
+  "zh": "Codex 重置失败：HTTP {{status}}",
+  "ja": "Codex のリセットに失敗しました: HTTP {{status}}",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.codexResetUnknownOutcome",
+  "en": "Unknown Codex reset outcome",
+  "zh": "未知 Codex 重置结果",
+  "ja": "Codex のリセット結果が不明です",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.codexResetIdempotencyRequired",
+  "en": "Codex reset idempotency key is required",
+  "zh": "需要 Codex 重置幂等键",
+  "ja": "Codex のリセットには冪等性キーが必要です",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.noSubscriptionApiKeyBilling",
+  "en": "No subscription plan — API key billing",
+  "zh": "无订阅套餐 — API key 计费",
+  "ja": "サブスクリプションプランなし — APIキーによる課金",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.claudeWaitingCredentialRotate",
+  "en": "Claude usage refresh is waiting for the live Claude terminal to rotate its credentials.",
+  "zh": "Claude 用量刷新正在等待实时 Claude 终端轮换凭据",
+  "ja": "Claude の使用量の更新は、実行中の Claude ターミナルが認証情報をローテーションするのを待っています。",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.rateLimits.errors.unknown",
+  "en": "Unknown error",
+  "zh": "未知错误",
+  "ja": "不明なエラー",
+  "siblings": 2
+ },
+ {
+  "key": "auto.lib.codex.session.restart.9f0b1c2d3e",
+  "en": "Codex account",
+  "siblings": 0
+ }
+]
