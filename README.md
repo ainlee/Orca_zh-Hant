@@ -6,21 +6,28 @@
 - Plugin id: `zh-hant-full-patch`
 - 安裝後 plugin key: `ainlee.zh-hant-full-patch`（publisher 由 GitHub owner 推導）
 
-## 以 GitHub 安裝（推薦）
+## 安裝方式（建議）
 
-在已安裝 Orca 且可用 `orca` CLI 的機器上執行：
+**建議從 Orca 官方社群外掛市場安裝與更新。** 透過社群市場安裝，Orca 可偵測新版本並提示/自動更新；從本倉庫直接安裝則**無法自動偵測更新**，需自行追蹤版本與重新安裝。
+
+- 社群外掛頁面（上架後）：<https://orca.dev/plugins/ainlee/Orca_zh-Hant>
+- 安裝後重啟 Orca，於 **Settings > Language** 選擇：**繁體中文（台灣）完整修補**。
+
+### 不建議：從 GitHub 直接安裝（無自動更新）
+
+僅在無法使用社群市場時，才建議手動安裝：
 
 ```powershell
-& "C:\Users\<你>\AppData\Local\Programs\orca\resources\bin\orca.exe" plugin install https://github.com/ainlee/Orca_zh-Hant.git --json
+& "C:Users<你>AppDataLocalProgramsorcaesourcesinorca.exe" plugin install ainlee/Orca_zh-Hant --json
 ```
 
-或：
+或指定完整 Git URL：
 
 ```powershell
-& "C:\Users\<你>\AppData\Local\Programs\orca\resources\bin\orca.exe" plugin install ainlee/Orca_zh-Hant --json
+& "C:Users<你>AppDataLocalProgramsorcaesourcesinorca.exe" plugin install https://github.com/ainlee/Orca_zh-Hant.git --json
 ```
 
-安裝後重啟 Orca，於 **Settings > Language** 選擇：**繁體中文（台灣）完整修補**。
+> 注意：此方式不會由 Orca 社群市場管理更新。當本倉庫發布新版本時，請自行重新執行安裝指令或改用社群市場安裝。
 
 ## 上架 Orca 社群外掛目錄
 
