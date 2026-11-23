@@ -9,7 +9,8 @@
 - **完整 catalog 必須**：language pack 缺鍵會 fallback 到英文（`en`）。因此 `locales/zh-Hant.json` 必須維持「完整 catalog」，不可只放差異鍵。
 - **不要改內建 asset**：不要覆寫 Orca 安裝目錄內的 `zh-Hant-*.json` / `app.asar` 內容；維護方式是更新 plugin、重裝/更新 plugin。
 - **受保護字串**：Orca 會忽略部分安全/系統敏感字串（plugin validate 可能出現 "protected strings are ignored" 警告），屬預期行為。
-- **版本策略**：`orca-plugin.json` 的 `version` 建議跟隨對應 Orca 官方版本（例如 `1.4.269`）。同一官方版內的翻譯修補可用 `1.4.269.1`、`1.4.269.2`。
+- **版本策略**：`orca-plugin.json` 的 `version` 與 Git tag 使用 `X.Y.Z` / `vX.Y.Z` 三段語意版。Orca 社群目錄與 `orca plugin install/update` 只認 `vX.Y.Z` tag；**不要使用四段版號**（如 `1.4.269.1`）。同一官方版內的翻譯修補請遞增第三段（例如 `1.4.269` → `1.4.270` → `1.4.271`），並在 commit message 註明對應 Orca 版本/修補內容。
+- **社群目錄收錄**：已加 `orca-plugin` topic 的 repo 由 [orca-community-plugins](https://github.com/stablyai/orca-community-plugins) 自動掃描；**不需要每次提交申請/PR**。更新版本時只要推新的 `vX.Y.Z` tag，目錄會在下次掃描時抓最新 tag。僅 push `main` 不會更新目錄版本。
 
 ## 檔案角色
 
@@ -77,11 +78,13 @@ Get-FileHash .\locales\zh-Hant.json,.\src\renderer\src\i18n\locales\zh-Hant.json
 
 ```powershell
 Set-Location F:\DevProjects\Orca_zh-Hant
-git add orca-plugin.json locales/zh-Hant.json src/renderer/src/i18n/locales/zh-Hant.json README.md
+git add orca-plugin.json locales/zh-Hant.json src/renderer/src/i18n/locales/zh-Hant.json README.md AGENTS.md
 git commit -m "chore: update zh-Hant catalog for Orca <X.Y.Z>"
-git tag v<X.Y.Z>   # 若同版多次修補可用 v<X.Y.Z>.1
+git tag v<X.Y.Z>   # 目錄只認 vX.Y.Z；同版修補請用下一個三段版號，例如 v1.4.272
 git push origin main --tags
 ```
+
+> 社群目錄只會抓新的 `vX.Y.Z` tag。若只更新內容沒打 tag，GitHub repo 會更新，但 Orca 社群目錄/`plugin update` 不會看到新版本。
 
 > 注意：push 是離開本機的遠端操作；執行前確認變更內容正確。
 
@@ -110,8 +113,9 @@ git push origin main --tags
 
 - [ ] `locales/zh-Hant.json` 已更新且為完整 catalog
 - [ ] `src/renderer/src/i18n/locales/zh-Hant.json` 已同步
-- [ ] `orca-plugin.json` version 已更新
+- [ ] `orca-plugin.json` version 已更新（`X.Y.Z` 三段版）
 - [ ] JSON parse 通過
-- [ ] commit message / tag 正確
+- [ ] commit message / `vX.Y.Z` tag 正確
 - [ ] 已 push `main` + tag
 - [ ] Orca 安裝驗證通過
+- [ ] （社群目錄）確認 `orca-plugin` topic 仍在；等待 indexer 掃描後檢查 `https://orca.dev/plugins/ainlee/Orca_zh-Hant`
