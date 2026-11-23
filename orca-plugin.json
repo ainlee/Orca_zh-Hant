@@ -1,21 +1,24 @@
 {
+  "manifestVersion": 2,
+  "id": "zh-hant-full-patch",
+  "name": "繁體中文（台灣）完整修補",
+  "version": "1.4.271",
+  "description": "以完整 zh-Hant catalog 提供 Orca 繁體中文（台灣）介面翻譯，作為 plugin 語系安裝（不修改內建語系檔）。",
+  "license": "MIT",
+  "repository": "https://github.com/ainlee/Orca_zh-Hant",
+  "homepage": "https://github.com/ainlee/Orca_zh-Hant",
+  "engines": {
+    "orca": ">=1.4.246"
+  },
+  "execution": "data",
   "capabilities": [],
   "contributes": {
     "languagePacks": [
       {
+        "locale": "zh-Hant",
         "path": "locales/zh-Hant.json",
-        "displayName": "繁體中文（台灣）完整修補",
-        "locale": "zh-Hant"
+        "displayName": "繁體中文（台灣）完整修補"
       }
     ]
-  },
-  "id": "zh-hant-full-patch",
-  "engines": {
-    "orca": ">=1.4.245"
-  },
-  "description": "以完整 zh-Hant catalog 提供 Orca 繁體中文（台灣）介面翻譯，作為 plugin 語系安裝（不修改內建語系檔）。",
-  "name": "繁體中文（台灣）完整修補",
-  "execution": "data",
-  "version": "1.4.270",
-  "manifestVersion": 2
+  }
 }
